@@ -8,6 +8,7 @@
     min-height: 500px;
   
     .logo {
+      size: 40px;
       display: block;
       padding: 8px 0;
   
@@ -18,7 +19,7 @@
         height: auto;
   
         &.sub-logo {
-          width: 50px;
+          width: 60px;
         }
       }
     }

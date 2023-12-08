@@ -1,22 +1,22 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/two.png",
+            "title": "Calculator",
+            "description": "HTML,CSS, JavaScript",
+            "url": "https://willowy-frangollo-8ef338.netlify.app/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/three.png",
+            "title": "Portfolio",
+            "description": "React, JSX, Tailwind",
+            "url": "https://astounding-rugelach-2966a3.netlify.app/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/four.png",
+            "title": "Interest Calculator",
+            "description": "HTML,CSS, JavaScript",
+            "url": "https://sprightly-creponne-fc78b9.netlify.app/"
         },
         {
             "cover": "/portfolio/1/one.png",
